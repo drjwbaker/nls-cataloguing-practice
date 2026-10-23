@@ -1,0 +1,12 @@
+composition	cross_collection	mcs10-ms5	mcs10-ms10	mcs15-ms5	mcs15-ms10	mcs30-ms5	mcs30-ms10	n_settings
+eb+hd	YES	167	167	167	167	167	167	6
+fb+hd	YES	52	52	52	52	52	52	6
+ja+jw	YES	79	78	79	78	79	78	6
+sp+tb+tp	YES	171	173	171	173	171	173	6
+tp	no	37	37	41	37	41		5
+sp+tp	YES	25	25	25	25		116	5
+eb	no	20	13	26	26			4
+jk	no	13	13	24	24			4
+mia	no	17	16	17	16			4
+eb+hd+mia	YES			80	55	106	55	4
+hd	no	18	18					2

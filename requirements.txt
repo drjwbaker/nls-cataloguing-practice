@@ -1,0 +1,24 @@
+# requirements.txt – draft (23 Oct 2026)
+# Pinned versions from the pilot code (generated 5 Jun 2026, Python 3.14.3).
+# The embeddings comparison was run with the minimum versions marked below (20 Oct 2026);
+# all versions to be pinned together and tested on MyBinder before submission.
+numpy==2.4.2
+pandas==3.0.0
+scipy==1.17.0
+matplotlib==3.10.8
+scikit-learn==1.8.0
+networkx==3.6.1
+leidenalg==0.11.0
+igraph==1.0.0
+python-louvain==0.16
+datasketch==1.10.0
+plotly==6.5.2
+seaborn==0.13.2
+notebook==7.5.3
+jupyterlab==4.5.4
+ipykernel==7.2.0
+# embeddings comparison (minimum versions; to pin)
+sentence-transformers>=3.0
+torch>=2.3
+huggingface-hub>=0.23
+umap-learn>=0.5.6

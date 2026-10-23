@@ -1,0 +1,15 @@
+# requirements.txt – language-model comparison (script/embeddings-comparison)
+# Minimum versions for development (20 Oct 2026). Pin exact versions with generate_requirements.py before archiving.
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.9
+sentence-transformers>=3.0
+torch>=2.3
+huggingface-hub>=0.23
+umap-learn>=0.5.6
+igraph>=0.11
+leidenalg>=0.10
+notebook>=7.0
+ipykernel>=6.29

@@ -1,0 +1,18 @@
+# NLS merged corpus v2 — build manifest
+# Built: 2026-06-22T17:02:47
+# Builder: build_corpus_v1.py
+# Data dir: script/data
+#
+# collection_directory	prefix	record_count	note
+nls-english-ballads	eb	2438	
+nls-forth-bridge-illustrations-1886-1887	fb	40	
+nls-hutton-drawings	hd	537	
+nls-john-adair-county-maps	ja	13	
+nls-john-kirk-survey	jk	23	
+nls-john-wood-town-plans	jw	62	
+nls-moving-image-archive-2025	mia	23491	4 DC files
+nls-soviet-posters	sp	72	
+nls-tay-bridge-enquiry	tb	91	
+nls-theatre-posters	tp	190	
+#
+# TOTAL	-	26957	-

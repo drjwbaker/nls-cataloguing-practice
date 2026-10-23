@@ -1,0 +1,8 @@
+cluster	size	n_collections	cross_collection	collections	dominant_categories	exemplar_sequence
+noise	260	7		mia:142, eb:46, tp:29, jk:23, hd:14, fb:3, sp:3	information (descriptive / prose)(0.32), information (terse / stub)(0.17), information (terse / stub), comma-separated(0.11)	CAT_08 CAT_02
+P2	173	6	YES	tb:91, sp:57, tp:18, eb:4, hd:2, mia:1	information (descriptive / prose)(0.51), information (terse / stub) after colon(0.49), information (terse / stub)(0.00)	CAT_08 CAT_09
+P4	167	3	YES	hd:99, eb:67, fb:1	information (descriptive / prose)(1.00), information (terse / stub)(0.00), reference or list fragment(0.00)	CAT_08
+P1	116	3	YES	tp:103, sp:12, mia:1	information (terse / stub)(0.39), information (terse / stub) after colon(0.26), information (terse / stub), comma-separated(0.21)	CAT_03 CAT_04 CAT_09 CAT_02 CAT_00 CAT_02 CAT_00 CAT_08
+P0	78	3	YES	jw:62, ja:13, eb:3	information (terse / stub)(1.00), reference or list fragment(0.00), part(s) of given name(s)(0.00)	CAT_00
+P3	55	3	YES	eb:30, hd:19, mia:6	information (descriptive / prose)(0.71), information (terse / stub)(0.29), other / unreliable(0.00)	CAT_00 CAT_08 CAT_00
+P5	52	2	YES	fb:36, hd:16	information (descriptive / prose)(0.84), information (terse / stub), comma-separated(0.16), information (terse / stub)(0.00)	CAT_08 CAT_04

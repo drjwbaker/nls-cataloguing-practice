@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite this repository."
+title: "Identifying Curatorial Voice: data and code"
+abstract: >-
+  Merged corpus, analysis code, and derived data for an article in preparation for
+  the Journal of Digital History on cataloguing practice across the collections of
+  the National Library of Scotland. Reduces catalogue records to a content-agnostic structural
+  representation and clusters them blind to collection to recover shared cataloguing
+  practice.
+type: dataset
+authors:
+  - family-names: Baker
+    given-names: James
+    affiliation: University of Southampton
+    orcid: "https://orcid.org/0000-0002-2682-6922"
+version: "2.0.0-draft"
+repository-code: "https://github.com/drjwbaker/nls-cataloguing-practice"
+license: MIT              # code; data and derived data are CC0-1.0 (see LICENSE-DATA.md)
+keywords:
+  - cataloguing
+  - catalogues as data
+  - curatorial voice
+  - cultural heritage
+  - unsupervised clustering
+  - reproducibility

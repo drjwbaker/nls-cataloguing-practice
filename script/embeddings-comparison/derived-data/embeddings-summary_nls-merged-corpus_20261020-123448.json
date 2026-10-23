@@ -1,0 +1,157 @@
+{
+  "run": "20261020-123448",
+  "trial_run": false,
+  "records_embedded": 26799,
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "model_commit": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+  "sentence_transformers": "5.4.1",
+  "records_cut_by_model_length": 5427,
+  "pilot_run": "20260708-152108",
+  "hdbscan": {
+    "min_cluster_size": 15,
+    "min_samples": 5
+  },
+  "k_neighbours": 10,
+  "seed": 42,
+  "ami_901": {
+    "AMI with collection, all 901 records (noise as a group)": {
+      "embeddings": 0.6908,
+      "pilot (masked)": 0.6001
+    },
+    "AMI with collection, records grouped by both (478)": {
+      "embeddings": 0.9535,
+      "pilot (masked)": 0.7156
+    },
+    "Groups containing more than one collection": {
+      "embeddings": 1.0,
+      "pilot (masked)": 9.0
+    }
+  },
+  "same_collection_neighbours_901": {
+    "eb": {
+      "embeddings": 0.984,
+      "pilot (masked)": 0.5633,
+      "chance": 0.1656,
+      "records": 150.0
+    },
+    "fb": {
+      "embeddings": 1.0,
+      "pilot (masked)": 0.6725,
+      "chance": 0.0433,
+      "records": 40.0
+    },
+    "hd": {
+      "embeddings": 0.988,
+      "pilot (masked)": 0.5913,
+      "chance": 0.1656,
+      "records": 150.0
+    },
+    "ja": {
+      "embeddings": 1.0,
+      "pilot (masked)": 0.1615,
+      "chance": 0.0133,
+      "records": 13.0
+    },
+    "jk": {
+      "embeddings": 1.0,
+      "pilot (masked)": 1.0,
+      "chance": 0.0244,
+      "records": 23.0
+    },
+    "jw": {
+      "embeddings": 1.0,
+      "pilot (masked)": 0.7839,
+      "chance": 0.0678,
+      "records": 62.0
+    },
+    "mia": {
+      "embeddings": 0.8873,
+      "pilot (masked)": 0.8127,
+      "chance": 0.1656,
+      "records": 150.0
+    },
+    "sp": {
+      "embeddings": 1.0,
+      "pilot (masked)": 0.3431,
+      "chance": 0.0789,
+      "records": 72.0
+    },
+    "tb": {
+      "embeddings": 1.0,
+      "pilot (masked)": 0.533,
+      "chance": 0.1,
+      "records": 91.0
+    },
+    "tp": {
+      "embeddings": 0.972,
+      "pilot (masked)": 0.82,
+      "chance": 0.1656,
+      "records": 150.0
+    },
+    "ALL (901)": {
+      "embeddings": 0.9719,
+      "pilot (masked)": 0.6569,
+      "chance": 0.1341,
+      "records": 901.0
+    }
+  },
+  "same_collection_neighbours_all": {
+    "eb": {
+      "embeddings": 0.9923,
+      "chance": 0.0858,
+      "records": 2299.0
+    },
+    "fb": {
+      "embeddings": 0.99,
+      "chance": 0.0015,
+      "records": 40.0
+    },
+    "hd": {
+      "embeddings": 0.9563,
+      "chance": 0.02,
+      "records": 536.0
+    },
+    "ja": {
+      "embeddings": 1.0,
+      "chance": 0.0004,
+      "records": 13.0
+    },
+    "jk": {
+      "embeddings": 1.0,
+      "chance": 0.0008,
+      "records": 23.0
+    },
+    "jw": {
+      "embeddings": 1.0,
+      "chance": 0.0023,
+      "records": 62.0
+    },
+    "mia": {
+      "embeddings": 0.9987,
+      "chance": 0.8759,
+      "records": 23473.0
+    },
+    "sp": {
+      "embeddings": 0.9889,
+      "chance": 0.0026,
+      "records": 72.0
+    },
+    "tb": {
+      "embeddings": 1.0,
+      "chance": 0.0034,
+      "records": 91.0
+    },
+    "tp": {
+      "embeddings": 0.8826,
+      "chance": 0.0071,
+      "records": 190.0
+    },
+    "ALL": {
+      "embeddings": 0.9965,
+      "chance": 0.775,
+      "records": 26799.0
+    }
+  },
+  "leiden_communities": 76,
+  "ami_leiden_all": 0.2467
+}

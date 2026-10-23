@@ -1,0 +1,19 @@
+cluster	size	n_collections	cross_collection	collections	dominant_categories	exemplar_sequence
+noise	215	6		mia:117, tp:47, eb:32, hd:13, fb:3, sp:3	information (descriptive / prose)(0.32), information (terse / stub)(0.22), information (terse / stub), comma-separated(0.14)	CAT_00 CAT_08 CAT_00
+P5	173	6	YES	tb:91, sp:57, tp:18, eb:4, hd:2, mia:1	information (descriptive / prose)(0.51), information (terse / stub) after colon(0.49), information (terse / stub)(0.00)	CAT_08 CAT_09
+P11	167	3	YES	hd:99, eb:67, fb:1	information (descriptive / prose)(1.00), information (terse / stub)(0.00), reference or list fragment(0.00)	CAT_08
+P4	78	3	YES	jw:62, ja:13, eb:3	information (terse / stub)(1.00), reference or list fragment(0.00), part(s) of given name(s)(0.00)	CAT_00
+P12	52	2	YES	fb:36, hd:16	information (descriptive / prose)(0.84), information (terse / stub), comma-separated(0.16), information (terse / stub)(0.00)	CAT_08 CAT_04
+P8	37	1	no	tp:37	information (terse / stub)(0.42), information (terse / stub), comma-separated(0.33), information (terse / stub) after colon(0.24)	CAT_09 CAT_00 CAT_04
+P6	25	2	YES	tp:13, sp:12	information (terse / stub)(0.51), information (terse / stub) after colon(0.49), reference or list fragment(0.00)	CAT_09 CAT_00
+P9	24	1	no	tp:24	information (terse / stub)(0.37), part(s) of given name(s)(0.27), information (terse / stub), comma-separated(0.21)	CAT_09 CAT_04 CAT_00 CAT_02 CAT_04
+P16	18	3	YES	hd:15, eb:2, mia:1	information (descriptive / prose)(0.85), information (terse / stub)(0.15), reference or list fragment(0.00)	CAT_08 CAT_00 CAT_08
+P3	16	1	no	mia:16	sequential / timecoded description(0.27), information (terse / stub), comma-separated(0.24), information (descriptive / prose)(0.23)	CAT_OTHER CAT_04 CAT_08 CAT_05
+P0	15	1	no	mia:15	reference or list fragment(0.82), information (descriptive / prose)(0.06), other / unreliable(0.05)	CAT_08 CAT_09 CAT_01 CAT_02 CAT_01
+P2	13	1	no	jk:13	numeric value (date or reference)(0.50), information (terse / stub)(0.25), information (descriptive / prose)(0.25)	CAT_00 CAT_07 CAT_08 CAT_07
+P13	13	2	YES	eb:11, hd:2	information (descriptive / prose)(0.75), part(s) of given name(s)(0.25), information (terse / stub)(0.00)	CAT_08 CAT_02
+P15	13	2	YES	eb:10, hd:3	information (descriptive / prose)(0.74), information (terse / stub)(0.26), reference or list fragment(0.00)	CAT_00 CAT_08
+P7	11	1	no	tp:11	information (terse / stub)(0.26), information (terse / stub), comma-separated(0.20), part(s) of given name(s)(0.19)	CAT_09 CAT_08 CAT_00 CAT_02 CAT_04
+P14	11	1	no	eb:11	part(s) of given name(s)(0.50), information (descriptive / prose)(0.50), information (terse / stub)(0.00)	CAT_08 CAT_02
+P10	10	1	no	eb:10	information (terse / stub)(0.51), information (descriptive / prose)(0.49), reference or list fragment(0.00)	CAT_00 CAT_08 CAT_00
+P1	10	1	no	jk:10	information (terse / stub)(0.33), numeric value (date or reference)(0.33), information (descriptive / prose)(0.33)	CAT_00 CAT_08 CAT_07

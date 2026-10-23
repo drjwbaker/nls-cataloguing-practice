@@ -1,0 +1,56 @@
+No-description records report (18 records)
+============================================================
+
+--- mia_14372 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)14372</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/14372</dcterms:identifier> <dcterms:title>SEUDAN A’ CHUAIN</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_15957 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)15957</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/15957</dcterms:identifier> <dcterms:title>TOMAS IS A THREUD</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_16977 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)16977</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/16977</dcterms:identifier> <dcterms:title>TOM TRACTAR</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent>(69:20 mins) : </dcterms:extent> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_16978 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)16978</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/16978</dcterms:identifier> <dcterms:title>TOM TRACTAR</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent>(107:54 mins) : </dcterms:extent> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_16979 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)16979</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/16979</dcterms:identifier> <dcterms:title>TOM TRACTAR</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent>(97:07 mins) : </dcterms:extent> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18604 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18604</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18604</dcterms:identifier> <dcterms:title>MACUILLEIM</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18914 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18914</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18914</dcterms:identifier> <dcterms:title>TRUSADH: Series 7</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18915 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18915</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18915</dcterms:identifier> <dcterms:title>TRUSADH: Series 7</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18916 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18916</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18916</dcterms:identifier> <dcterms:title>TRUSADH: Series 7</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18917 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18917</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18917</dcterms:identifier> <dcterms:title>TRUSADH: Series 7</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18921 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18921</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18921</dcterms:identifier> <dcterms:title>TRUSADH: Series 7</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_18922 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)18922</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/18922</dcterms:identifier> <dcterms:title>TRUSADH: Series 7</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_19412 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)19412</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/19412</dcterms:identifier> <dcterms:title>TREUD NA DLÙTH-CHOILLE</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_19427 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)19427</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/19427</dcterms:identifier> <dcterms:title>TREUD NA DLÙTH-CHOILLE</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_19429 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)19429</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/19429</dcterms:identifier> <dcterms:title>TREE FU TOM</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent /> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_19793 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)19793</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/19793</dcterms:identifier> <dcterms:title>TELEFIOS NA SEACHDAINN</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent>(25:23 mins) : </dcterms:extent> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_21387 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)21387</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/21387</dcterms:identifier> <dcterms:title>HMS THORNHAM</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent>(12:00 mins) : </dcterms:extent> <dcterms:date>1975.</dcterms:date> <dcterms:language>eng</dcterms:language> <dcterms:description /> </rdf:Description>
+
+--- mia_8355 ---
+<rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <dcterms:identifier>(filmRef)8355</dcterms:identifier> <dcterms:identifier>http://movingimage.nls.uk/film/8355</dcterms:identifier> <dcterms:title>HOLIDAY ON THE CLYDE</dcterms:title> <dcterms:format>two-dimensional moving image</dcterms:format> <dcterms:extent>(7:03 mins) : </dcterms:extent> <dcterms:date>1973.</dcterms:date> <dcterms:language>eng</dcterms:language> <dcterms:description /> <dcterms:subject>Lanarkshire</dcterms:subject> </rdf:Description>
